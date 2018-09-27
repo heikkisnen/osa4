@@ -3,10 +3,9 @@ POST http://localhost:3003/api/blogs
 content-type: application/json
 
 {
-    "title": "WakeLyfeee123",
+    "title": "testi setti",
     "author": "Halfstack-Heikkinen",
-    "url": "testisetti",
-    "likes": 0
+    "url": "tylsää"
 }
 
 
